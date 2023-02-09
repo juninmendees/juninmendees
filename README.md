@@ -1,9 +1,15 @@
 #### OLÁ, SEJA BEM VINDO! 👋
  Sou o Luis Junior,  e atuo como Quality Assurance.<br/>
  Me descobri um apaixonado pela área de testes e qualidade de software. 🔎 🐞
+ 
+<div>
+<a href="https://github.com/juninmendees">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juninmendees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninmendees&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juninmendees&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juninmendees)
+
+
 
 #### PRINCIPAIS TECNOLOGIAS
 🔹Rest Assured<br/>
